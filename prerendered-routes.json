@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/yasserjer/gestion-projet": {},
+    "/yasserjer/gestion-projet/admin": {},
+    "/yasserjer/gestion-projet/admin/dashboard": {},
+    "/yasserjer/gestion-projet/admin/projet/post": {},
+    "/yasserjer/gestion-projet/etudiant": {},
+    "/yasserjer/gestion-projet/etudiant/dashboard": {},
+    "/yasserjer/gestion-projet/login": {},
+    "/yasserjer/gestion-projet/register": {}
+  }
+}
